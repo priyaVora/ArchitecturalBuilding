@@ -1,1 +1,11 @@
 2018-02-10 14:56:49,758 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-02-10 15:09:12,766 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-02-10 15:09:59,883 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: project.showcase.march2018:ArchitecturalBuidling:0.0.1-SNAPSHOT @ C:\Users\Priya\Documents\GitProjects\ArchitecturalBuilding\ArchitecturalBuidling\pom.xml.
+2018-02-10 15:10:01,781 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ArchitecturalBuidling/src/main/java
+2018-02-10 15:10:01,784 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ArchitecturalBuidling/src/main/resources
+2018-02-10 15:10:01,784 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ArchitecturalBuidling/src/test/java
+2018-02-10 15:10:01,785 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ArchitecturalBuidling/src/test/resources
+2018-02-10 15:10:03,290 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-10 15:10:03,307 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-10 15:10:03,309 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-10 15:10:03,318 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
